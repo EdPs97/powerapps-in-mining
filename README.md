@@ -8,11 +8,11 @@ Smart Worker is a suite of low-code applications developed using Microsoft Power
 
 Fuel is one of the hardest consumables to control in open-pit mining operations, especially when equipment lacks reliable onboard gauges. Harsh site conditions caused recurring gauge failures, forcing operators to record fuel usage manually. This led to:
 
-*Loss of traceability
-*Frequent transcription errors
-*Slow reporting cycles
-*Unreliable consumption metrics
-*Delays in SAP fuel reservation processes
+*Loss of traceability.
+*Frequent transcription errors.
+*Slow reporting cycles.
+*Unreliable consumption metrics.
+*Delays in SAP fuel reservation processes.
 
 ### Solution Overview
 
