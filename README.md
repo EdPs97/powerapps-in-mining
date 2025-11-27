@@ -1,4 +1,4 @@
-# Smart Worker – Power Apps Suite for Operational Data Capture
+# Power Apps in Mining - Smart Worker
 
 Smart Worker is a suite of low-code applications developed using Microsoft Power Apps within the Microsoft 365 ecosystem. The solution began as an initiative to digitize critical operational data—traditionally captured manually or through spreadsheets—and evolved into a scalable platform designed to strengthen data traceability, reduce human error, and accelerate decision-making in mining operations.
 
