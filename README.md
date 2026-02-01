@@ -92,3 +92,7 @@ The leach pad spans a large, remote area without internet coverage. Power Appsâ€
 * Continuous data capture during leach pad rounds
 * Zero dependency on network availability
 * Automatic synchronization once operators return to connected zones
+* 
+
+### Disclaimer: 
+This project is ongoing. The tests presented here were conducted in collaboration with Lucas Mariscal (Plant Processing Planner).
